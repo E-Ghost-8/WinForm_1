@@ -1,0 +1,14 @@
+C:\ConsoleApp\GPTWeek1\GPTWeek1\bin\Debug\net8.0\GPTWeek1.exe
+C:\ConsoleApp\GPTWeek1\GPTWeek1\bin\Debug\net8.0\GPTWeek1.deps.json
+C:\ConsoleApp\GPTWeek1\GPTWeek1\bin\Debug\net8.0\GPTWeek1.runtimeconfig.json
+C:\ConsoleApp\GPTWeek1\GPTWeek1\bin\Debug\net8.0\GPTWeek1.dll
+C:\ConsoleApp\GPTWeek1\GPTWeek1\bin\Debug\net8.0\GPTWeek1.pdb
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.AssemblyInfoInputs.cache
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.AssemblyInfo.cs
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.csproj.CoreCompileInputs.cache
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.dll
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\refint\GPTWeek1.dll
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.pdb
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\GPTWeek1.genruntimeconfig.cache
+C:\ConsoleApp\GPTWeek1\GPTWeek1\obj\Debug\net8.0\ref\GPTWeek1.dll
